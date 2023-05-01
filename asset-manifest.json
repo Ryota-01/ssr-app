@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ssr-app/static/css/main.e6c13ad2.css",
-    "main.js": "/ssr-app/static/js/main.cb385e4d.js",
+    "main.js": "/ssr-app/static/js/main.75514de4.js",
     "static/js/787.77112377.chunk.js": "/ssr-app/static/js/787.77112377.chunk.js",
     "index.html": "/ssr-app/index.html",
     "main.e6c13ad2.css.map": "/ssr-app/static/css/main.e6c13ad2.css.map",
-    "main.cb385e4d.js.map": "/ssr-app/static/js/main.cb385e4d.js.map",
+    "main.75514de4.js.map": "/ssr-app/static/js/main.75514de4.js.map",
     "787.77112377.chunk.js.map": "/ssr-app/static/js/787.77112377.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cb385e4d.js"
+    "static/js/main.75514de4.js"
   ]
 }
